@@ -37,7 +37,7 @@ int main() {
     }
 
     // Display the fare
-    printf("The amount to be paid for the rented vehicle is Rs.%.2f ", fare);
+    printf("The amount to be paid for the rented vehicle is %.2f Rs.", fare);
 
   
   return 0;
